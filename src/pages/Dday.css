@@ -1,0 +1,14 @@
+div.dday{
+    background-color: rgb(225, 14, 14);
+    color: aliceblue;
+    width: 53px;
+    height: 26px;
+    text-align: center;
+    line-height: 26px;
+    border-radius: 20px;
+    font-size: 1rem;
+}
+
+*{
+    font-family: 'S-CoreDream-5Medium';
+}

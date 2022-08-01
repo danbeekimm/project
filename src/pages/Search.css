@@ -1,0 +1,39 @@
+*{
+    font-family: 'S-CoreDream-5Medium';
+}
+
+b.developt{
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 20px;
+    font-size: 1.6rem;
+
+}
+
+div.nationst{
+    display: flex;
+    justify-content: space-between;
+    width: 470px;
+}
+
+button.ico{
+    height: 48px;
+    width: 150px;
+    font-size: 1rem;
+    font-weight: bold;
+    
+}
+
+box{
+    text-align: center;
+
+}
+
+.slider{
+    top: 10px;
+}
+
+Button.ok{
+    width: 120px;
+    height: 30px;
+}

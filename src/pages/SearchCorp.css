@@ -1,0 +1,132 @@
+*{
+    font-family: 'S-CoreDream-5Medium';
+}
+
+.regionbtn{
+    border-radius: 2px;
+    border: 1px solid #e1e2e3;
+    background: #fff;
+    color: #333;
+    font-size: 17px;
+    font-weight: 400;
+    padding: 9px 15px;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+    -ms-flex-align: center;
+    align-items: center;
+    width: 150px;
+}
+
+.regionbtn:hover{
+    cursor: pointer;
+    border-radius: 2px;
+    border: 1px solid #e1e2e3;
+    background: #e1e2e394;
+    color: #333;
+    font-size: 17px;
+    font-weight: 400;
+    padding: 9px 15px;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+    -ms-flex-align: center;
+    align-items: center;
+    width: 150px;
+}
+.experiencebtn{
+    border-radius: 2px;
+    border: 1px solid #e1e2e3;
+    background: #fff;
+    color: #333;
+    font-size: 17px;
+    font-weight: 400;
+    padding: 9px 15px;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+    -ms-flex-align: center;
+    align-items: center;
+    width: 150px;
+}
+
+.experiencebtn:hover{
+    cursor: pointer;
+    border-radius: 2px;
+    border: 1px solid #e1e2e3;
+    background: #e1e2e394;
+    color: #333;
+    font-size: 17px;
+    font-weight: 400;
+    padding: 9px 15px;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+    -ms-flex-align: center;
+    align-items: center;
+    width: 150px;
+}
+
+.techbtn{
+    border-radius: 2px;
+    border: 1px solid #e1e2e3;
+    background: #fff;
+    color: #333;
+    font-size: 17px;
+    font-weight: 400;
+    padding: 9px 15px;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+    -ms-flex-align: center;
+    align-items: center;
+    width: 150px;
+}
+
+.techbtn:hover{
+    cursor: pointer;
+    border-radius: 2px;
+    border: 1px solid #e1e2e3;
+    background: #e1e2e394;
+    color: #333;
+    font-size: 17px;
+    font-weight: 400;
+    padding: 9px 15px;
+    display: -ms-inline-flexbox;
+    display: inline-flex;
+    -ms-flex-align: center;
+    align-items: center;
+    width: 150px;
+}
+
+
+b.developt{
+    text-align: center;
+    margin-top: 50px;
+    margin-left: 20px;
+    font-size: 1.6rem;
+
+}
+
+div.nationst{
+    display: flex;
+    justify-content: space-between;
+    width: 470px;
+}
+
+button.ico{
+    height: 48px;
+    width: 150px;
+    font-size: 1rem;
+    font-weight: bold;
+    
+}
+
+box{
+    text-align: center;
+
+}
+
+.slider{
+    top: 10px;
+}
+
+Button.ok{
+    width: 120px;
+    height: 30px;
+}

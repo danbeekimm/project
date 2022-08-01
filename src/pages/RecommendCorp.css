@@ -1,0 +1,38 @@
+*{
+    font-family: 'S-CoreDream-5Medium';
+}
+
+div.slidetitle{
+    z-index: 1000;
+    margin-top: -400px;
+    margin-left: -1200px;
+    text-align: left;
+    font-size: 2.3rem;
+    color: aliceblue;
+    text-shadow: -1.5px 0 #000, 0 1.5px #000, 1.5px 0 #000, 0 -1.5px #000;
+}
+
+img.slideimg{
+    z-index: -9999;
+    width: 100%;
+}
+
+.prebtn > span > *{
+    color: gray;
+    font-size: 3rem;
+    margin-top: -30px;
+}
+
+.nextbtn > span > *{
+    color: gray;
+    font-size: 3rem;
+    margin-top: -30px;
+}
+
+.slick-dots li button:before{
+    margin-top: 20px;
+}
+
+.slideitem{
+    cursor: pointer;
+}

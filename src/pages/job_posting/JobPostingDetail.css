@@ -1,0 +1,205 @@
+div.JobPostingDetail{
+    padding-left: 20px;
+}
+
+div.JobPostingDetail h2{
+    text-align: center;
+}
+
+div.j_subject{
+    width: 600px;
+    margin: 40px 180px;
+}
+
+div.j_subject b{
+    font-size: 20px;
+}
+
+div.right{
+    border-radius: 20px;
+    /* width: 300px; */
+    position: absolute;
+    top: 2%;
+    left: 62%;
+}
+
+div.right img{
+    width: 190px;
+    margin-left: 10px;
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
+
+div.c_info{
+    width: 150px;   
+    padding-bottom: 20px;
+    font-size: 14px;
+}
+
+div.c_info table{
+    width: 150px; 
+    margin-left: 20px;
+}
+
+div.c_info table tr{
+    height: 40px;
+}
+
+table.cTable tr td{
+    /* width: 75px; */
+    text-align: center;
+    font-size: 12px;
+}
+
+tr.heartbtn td{
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+
+tr.heartbtn button{
+    width: 190px;
+}
+
+div.j_detail{
+    border-top: 1px solid rgb(225, 225, 225);  
+    border-bottom: 1px solid rgb(225, 225, 225);
+    width: 600px;
+    padding: 20px 20px;
+    margin-left: 180px;
+}
+
+div.JobPostingDetail h5{
+    margin-left: 180px;
+}
+
+div.j_detail table{
+    font-size: 15px;
+}
+
+div.j_detail table tr{
+    height: 20px;
+}
+
+table.jDetail tr td {
+    width: 150px;
+}
+
+div.myMap{
+    border: 3px solid rgb(225, 225, 225);
+    width: 850px;
+    height: 300px;
+    margin-left: 180px;
+    margin-top: 20px;
+}
+
+img.templete{
+    width: 850px;
+    margin-left: 180px;
+}
+
+div.t_templete{
+    width: 650px;
+    position: absolute;
+    top: 105%;
+    left: 365px;
+}
+
+table.t_templete tr td{
+    width: 150px;
+    font-size: 14px;
+}
+
+div.t_templete p{
+    font-size: 14px;
+    text-align: center;
+}
+
+div.t_templete b{
+    text-align: center;
+}
+
+div.circle{
+    width: 110px;
+    height: 100px;
+    border: 2px solid rgb(0, 0, 97);
+    border-radius: 100%;
+    text-align: center;
+    line-height: 100px;
+    float: left;
+    margin-top: 20px;
+    font-size: 15px;
+}
+
+span.s{
+    float: left;
+    height: 100px;
+    line-height: 140px;
+    font-size: 25px;
+    color: rgb(0, 0, 97);
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+div.t_templete_p{
+    width: 650px;
+    position: absolute;
+    top: 70%;
+    left: 420px;
+    font-size: 55px;
+    width: 500px;
+    color: white;
+    text-align: center;
+}
+
+div.t_templete_p p{
+      font-family: 'SBAggroB';
+}
+
+div.end{
+    margin-left: 180px;
+    padding: 20px 0px;
+    width: 850px;
+    border-top: 1px solid rgb(225, 225, 225);
+    border-bottom: 1px solid rgb(225, 225, 225);
+}
+
+div.end p{
+    font-size: 25px;
+}
+
+div.end b{
+    font-size: 20px;
+    border: 3px solid #ffcc00;
+    border-radius: 5px;
+    padding: 3px 20px;
+    background-color: #ffcc00;
+    color: white;
+    margin-right: 20px;
+}
+
+div.btn_s{
+    padding-left: 180px;
+    height: 300px;
+    padding-top: 100px;
+}
+
+div.btn_s button{
+    width: 420px;
+    height: 50px;
+}
+
+div.scrap{
+    width: 900px;
+    text-align: center;
+    margin-left: 150px;
+    padding-top: 50px;
+}
+
+div.scrap button{
+    width: 850px;
+    height: 60px;
+    border-width: 2px;
+    font-size: 20px;
+    border-radius: 50px;
+}

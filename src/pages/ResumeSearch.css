@@ -1,0 +1,96 @@
+*{
+    font-family: 'S-CoreDream-5Medium';
+}
+
+div.underline_corp{
+
+    margin-right: 100px;
+}
+
+.justifyAsia{
+    width: 600px;
+    text-align: justify;
+}
+
+.justifyAsia:after{
+    content: "";
+    display: inline-block;
+    width: 100%;
+}
+
+.title{
+    font-weight: bold;
+    font-size: 1.2rem;
+    margin-left: 3rem;
+}
+
+.develop{
+    font-size: 0.8rem;
+    font-weight: bold;
+}
+
+.write{
+    float: right;
+}
+
+.name{
+    height: 30px;
+    margin-left:3.5rem;
+    font-size:0.9rem;
+}
+
+.birth{
+    height: 30px;
+    margin-left:3.5rem;
+    font-size:0.9rem;
+}
+
+.tech{
+    height: 30px;
+    margin-left:3.5rem;
+    font-size:0.9rem;
+}
+
+.expri{
+    height: 30px;
+    margin-left:3.5rem;
+    font-size:0.9rem;
+}
+
+.just{
+    height:30px;  
+    margin-left:3.5rem;
+    font-size:0.9rem;
+    width:1000px;
+    display:flex;
+}
+
+.intro{
+    height:30px;
+    margin-left:2.5rem;
+    font-size:0.8rem;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    width: 650px;
+    
+    
+}
+
+Button.btndetail{
+    float:right;
+    color:white;
+    margin-top:-70px
+}
+
+
+.tit{
+    font-size: 0.8rem;
+    display: inline-block;
+    width: 500px;
+}
+
+.file{
+    margin-left: 3.5rem;
+    font-size: 0.7rem;
+}

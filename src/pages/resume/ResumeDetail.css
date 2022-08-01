@@ -1,0 +1,138 @@
+* {
+    font-family: 'S-CoreDream-5Medium';
+}
+
+div.detailSideBar {
+    position: fixed;
+    top: 26%;
+    left: 67%;
+}
+
+table.detailSideBar tr {
+    padding-top: 20px;
+}
+
+table.detailSideBar td {
+    width: 300px;
+    height: 40px;
+    text-align: center;
+    border: 1px solid darkgray;
+}
+
+table.detailSideBar tr td span {
+    color: gray;
+    font-size: 13px;
+}
+
+table.ResumeDetail tr td.photo {
+    width: 200px;
+}
+
+table.ResumeDetail td {
+    text-align: center;
+}
+
+table.ResumeDetail td img {
+    /* float: right; */
+    width: 110px;
+}
+
+table.ResumeDetail tr th {
+    font-size: 22px;
+    height: 65px;
+}
+
+table.ResumeDetail {
+    width: 700px;
+    margin-left: 50px;
+    margin-top: 30px;
+}
+
+td.required_edit {
+    background-color: steelblue;
+    color: white;
+    cursor: pointer;
+}
+
+td.required {
+    cursor: pointer;
+}
+
+table.first {
+    width: 700px;
+    margin-left: 50px;
+    margin-top: 30px;
+    text-align: center;
+}
+
+tr.trDetail td {
+    background-color: white;
+}
+
+span.totalY {
+    font-size: 15px;
+    color: rgba(209, 2, 2, 0.862);
+}
+
+
+tr.wishTable td {
+    width: 350px;
+    background-color: rgb(241, 241, 241);
+    font-size: 16px;
+}
+
+tr.wishTableDetail td {
+    width: 350px;
+    background-color: rgb(224, 224, 223);
+    font-size: 15px;
+    padding-left: 80px;
+    padding-right: 80px;
+}
+
+tr.subName td {
+    background-color: rgb(249, 249, 249);
+    width: 100px;
+    font-size: 11px;
+    padding-top: 20px;
+}
+
+tr.subName2 td {
+    background-color: rgb(249, 249, 249);
+    width: 150px;
+    font-size: 11px;
+    padding-bottom: 20px;
+    padding-right: 10px;
+    padding-top: 5px;
+}
+
+tr.subName2 td:nth-child(n+2) {
+    position: relative;
+    margin-left: 5px;
+    padding-left: 10px;
+}
+
+
+tr.subName2 td:nth-child(n+2)::after {
+    position: absolute;
+    left: 0;
+    top: -20px;
+    content: "";
+    width: 1px;
+    height: 70px;
+    background-color: rgb(210, 210, 210);
+}
+
+tr.comTableT td {
+    font-size: 13px;
+    font-weight: bold;
+}
+
+tr.comTable td {
+    background-color: white;
+    width: 100px;
+    font-size: 11.5px;
+}
+
+button.techBtn {
+    font-size: 15px;
+}

@@ -1,0 +1,241 @@
+div.JobPageHeader {
+    font-family: 'S-CoreDream-5Medium';
+    margin-top: 30px;
+}
+
+div.JobPostingInput h2 {
+    text-align: center;
+}
+
+div.JobPageHeader {
+    width: 1250px;
+}
+
+div.JobPageHeader img {
+    width: 70px;
+    margin-bottom: 20px;
+}
+
+div.JobPageHeader span {
+    float: right;
+    right: 20px;
+}
+
+div.JobPageHeader span b {
+    font-size: 15px;
+}
+
+table.jobInput {
+    margin: 0 auto;
+    margin-top: 50px;
+    margin-bottom: 300px;
+    width: 1000px;
+}
+
+tr.job_subject {
+    border: 8px solid #ffcc00;
+    height: 80px;
+}
+
+td.job_name {
+    font-size: 15px;
+    width: 200px;
+    text-align: center;
+}
+
+td.job_name span {
+    color: red;
+    font-size: 10px;
+}
+
+td.job_input {
+    padding-left: 30px;
+}
+
+tr.job_detail {
+    border: 1px solid lightgray;
+    height: 70px;
+}
+
+tr.job_detail td {
+    border: 1px solid rgb(241, 240, 240);
+}
+
+td.input_num {
+    padding-left: 30px;
+}
+
+td.input_num input {
+    width: 50px;
+    text-align: center;
+    border: none;
+    border-bottom: 1px solid black;
+}
+
+select.select {
+    width: 520px;
+    height: 40px;
+    font-size: 15px;
+    padding-left: 10px;
+}
+
+td.input_todo {
+    padding-left: 30px;
+}
+
+td.input_todo input {
+    width: 500px;
+    height: 300px;
+    border: none;
+}
+
+textarea.txt {
+    width: 520px;
+    height: 300px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+td.button {
+    text-align: center;
+    padding-top: 50px;
+}
+
+td.button button {
+    width: 330px;
+    margin-right: 10px;
+}
+
+td.end_date {
+    padding-left: 30px;
+}
+
+td.end_date input {
+    width: 20px;
+    border: none;
+}
+
+span.redfont {
+    font-size: 10px;
+    color: red;
+}
+
+td.input_ input {
+    width: 400px;
+    height: 35px;
+    border: none;
+}
+
+td.input_addr {
+    height: 110px;
+    padding-left: 30px;
+}
+
+td.input_addr button {
+    width: 520px;
+    height: 50px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+td.input_det {
+    padding-left: -10px;
+}
+
+input.input_det {
+    border: none;
+    border-bottom: 1px solid rgb(124, 124, 124);
+    width: 300px;
+    height: 40px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding-left: 10px;
+}
+
+td.input_preferred input {
+    margin-bottom: 20px;
+    width: 200px;
+    height: 40px;
+    border: none;
+    border-bottom: 2px solid darkgray;
+}
+
+td.job_pre {
+    padding: 10px 20px;
+}
+
+td.job_input_subject input {
+    width: 520px;
+    height: 50px;
+    border: none;
+    text-align: center;
+}
+
+td.job_input_subject {
+    text-align: center;
+}
+
+td.job_name_subject {
+    text-align: center;
+}
+
+td.job_pre input {
+    margin-left: 10px;
+    margin-right: 5px;
+}
+
+td.job_pre button {
+    margin: 10px 5px 5px 5px;
+}
+
+td.file_input input {
+    margin-left: 30px;
+    width: 85px;
+}
+
+input.inputEx {
+    width: 30px;
+    border: none;
+    border-bottom: 1px solid rgb(210, 210, 210);
+    text-align: center;
+}
+
+span.inputAddr {
+    border: 1px solid rgb(124, 124, 124);
+    color: rgb(84, 84, 84);
+    border-radius: 30px;
+    padding: 10px 10px;
+    font-size: 12px;
+    cursor: pointer;
+}
+
+span.inputAddr:hover {
+    border: 1px solid black;
+    background-color: black;
+    color: white;
+    border-radius: 30px;
+    padding: 10px 10px;
+    font-size: 12px;
+    cursor: pointer;
+}
+
+b.text {
+    font-size: 8px;
+    color: blue;
+}
+
+span.result {
+    font-size: 18px;
+    padding-bottom: 15px;
+}
+
+select.applyS {
+    width: 450px;
+    height: 50px;
+    padding: 10px 10px;
+    /* border: 3px solid rgb(255, 196, 3); */
+}
+
+span.titleS {
+    font-size: 25px;
+}

@@ -1,0 +1,45 @@
+h3.corpOpenResume{
+    position: absolute;
+    top: 270px;
+    left: 350px;
+    font-weight: bold;
+}
+
+h3.corpOpenResume2{
+    position: absolute;
+    top: 330px;
+    left: 480px;
+    font-weight: bold;
+}
+
+*{
+    font-family: 'S-CoreDream-5Medium';
+}
+
+img {
+    max-width: 100%;
+    max-height: 100%;
+    }
+    .cat {
+        height: 60px;
+        width: 60px;
+    }
+
+.imageResume{
+    position: relative;
+    top: 80px;
+    left: 70px;
+}
+
+.imageResume2{
+    position: relative;
+    top: 160px;
+    left: 450px;
+}
+
+.openresume{
+    position: relative;
+    top: 500px;
+    left: 20px;
+    color: red;
+}
